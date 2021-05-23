@@ -1,6 +1,8 @@
 Puppeteer notes
 ===============
 
+* Youtube tutorial for this - [Tutorial | Getting started with puppeteer | Manoj Singh Negi | NodeJS](https://youtu.be/KowSdMQTJeo)
+
 * Official repo for Puppeteer [https://github.com/puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 * Official Puppeteer docs [https://pptr.dev/](https://pptr.dev/)
 
